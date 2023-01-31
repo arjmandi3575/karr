@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-image: url(./اطلا.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.all{
+    margin: 50px auto;
+    width: 80%;
+}
+p{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    float: right;
+ 
+}
+.c{
+    content: "";
+    clear: both;
+}
+.a{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    float: left;
+}
+.b{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    float: right;
+}
